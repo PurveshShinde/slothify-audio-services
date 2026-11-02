@@ -1,11 +1,14 @@
 {
   "name": "slothify-audio-services",
   "version": "0.1.0",
-  "description": "Unofficial JioSaavn API",
+  "description": "Dedicated audio streaming and media resolution microservice for Slothify",
   "type": "module",
   "license": "MIT",
-  "repository": "https://github.com/sumitkolhe/jiosaavn-api",
-  "author": "Sumit Kolhe",
+  "repository": "https://github.com/PurveshShinde/Slothify",
+  "author": "Purvesh Shinde",
+  "contributors": [
+    "Sumit Kolhe"
+  ],
   "main": "dist/server.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
